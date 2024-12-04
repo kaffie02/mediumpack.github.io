@@ -1,0 +1,37 @@
+:root
+{
+    --fs-1: 1rem;
+    --fs-2: 1.5rem;
+    --fs-3: 2rem;
+    --fs-4: 2.5rem;
+    --fs-5: 3rem;
+    --fs-6: 3.5rem;
+    --fs-7: 4rem;
+    --fs-8: 4.5rem;
+    --fs-9: 5rem;
+    --fs-10:5.5rem;
+
+    --primary: #007bff;
+    --success: #00c728; 
+    --warning: #f0c400;
+    --danger:  #ff3232;
+}
+
+.color-primary{color: var(--primary);}
+.color-success{color: var(--success);}
+.color-danger{color: var(--danger);}
+.color-warning{color: var(--warning);}
+
+.size-1{font-size:var(--fs-1);}
+.size-2{font-size:var(--fs-2);}
+.size-3{font-size:var(--fs-3);}
+.size-4{font-size:var(--fs-4);}
+.size-5{font-size:var(--fs-5);}
+.size-6{font-size:var(--fs-6);}
+.size-7{font-size:var(--fs-7);}
+.size-8{font-size:var(--fs-8);}
+.size-9{font-size:var(--fs-9);}
+.size-0{font-size:var(--fs-10);}
+
+
+

@@ -1,0 +1,34 @@
+@import url('utilities.css');
+
+/* Smartphones (small) - iPhone SE, Galaxy Fold kecil */
+  @media (max-width: 320px) {
+  }
+  
+  /* Smartphones (medium) - iPhone 6/7/8, Pixel 5 */
+  @media (max-width: 375px) {
+  }
+  
+  /* Smartphones (large) - iPhone XR/11, Galaxy S10 */
+  @media (max-width: 425px) {
+  }
+  
+  /* Tablets - iPads, Galaxy Tabs, Surface Pro kecil */
+  @media (max-width: 768px) {
+  }
+  
+  /* Small laptops - MacBook Air, Chromebook */
+  @media (max-width: 1024px) {
+  }
+  
+  /* Laptops (medium) - MacBook Pro 13", Surface Laptop */
+  @media (max-width: 1366px) {
+  }
+  
+  /* Large laptops or desktops - 4K monitors, iMac */
+  @media (max-width: 1920px) {
+  }
+  
+  /* Ultra-wide screens */
+  @media (min-width: 1921px) {
+  }
+  

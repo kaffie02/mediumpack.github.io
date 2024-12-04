@@ -1,0 +1,17 @@
+{
+  "name": "kedai-kopi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "alpinejs": "^3.14.6",
+    "remixicon": "^4.5.0"
+  }
+}
